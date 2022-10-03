@@ -488,6 +488,8 @@
 			"type": "ADMINISTRATOR",
 			"email": "coco@jam.bo",
 			"phone": "888-888-8888",
+			"consented": true,
+			"password_reset_timestamp": "2021-06-28T10:30:15.310Z",
 			"is_active": true,
 			"created_at": "2021-06-28T10:30:15.310Z",
 			"updated_at": "2021-06-29T12:55:28.310Z"
@@ -498,6 +500,8 @@
 			"type": "CRO",
 			"email": "valeri@erek.le",
 			"phone": "888-888-8888",
+			"consented": false,
+			"password_reset_timestamp": "2021-06-28T10:30:15.310Z",
 			"is_active": true,
 			"created_at": "2021-06-28T10:30:15.310Z",
 			"updated_at": "2021-06-29T12:55:28.310Z"
@@ -508,6 +512,8 @@
 			"type": "MEDICAL_MONITOR",
 			"email": "marta@iri.ne",
 			"phone": "888-888-8888",
+			"consented": true,
+			"password_reset_timestamp": "2021-06-28T10:30:15.310Z",
 			"is_active": true,
 			"created_at": "2021-06-28T10:30:15.310Z",
 			"updated_at": "2021-06-29T12:55:28.310Z"
@@ -518,6 +524,8 @@
 			"type": "SPONSOR_EMPLOYEE",
 			"email": "chibueze@ayomi.de",
 			"phone": "888-888-8888",
+			"consented": true,
+			"password_reset_timestamp": "2021-06-28T10:30:15.310Z",
 			"is_active": true,
 			"created_at": "2021-06-28T10:30:15.310Z",
 			"updated_at": "2021-06-29T12:55:28.310Z"
@@ -528,6 +536,8 @@
 			"type": "CLINICIAN",
 			"email": "nnamdi@lek.an",
 			"phone": "888-888-8888",
+			"consented": false,
+			"password_reset_timestamp": "2021-06-28T10:30:15.310Z",
 			"is_active": true,
 			"created_at": "2021-06-28T10:30:15.310Z",
 			"updated_at": "2021-06-29T12:55:28.310Z"
