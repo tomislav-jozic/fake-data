@@ -1,10 +1,12 @@
 {
-	"trials": [{
+	"trials": [
+		{
 			"name": "CVL-871",
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -21,10 +23,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -33,7 +37,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -50,10 +55,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -62,7 +69,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -79,10 +87,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -91,7 +101,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -108,10 +119,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -120,7 +133,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -137,10 +151,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -149,7 +165,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -166,10 +183,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -178,7 +197,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -195,10 +215,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -207,7 +229,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -224,10 +247,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -236,7 +261,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -253,10 +279,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -265,7 +293,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -282,10 +311,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -294,7 +325,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -311,10 +343,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -323,7 +357,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -340,10 +375,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -352,7 +389,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -369,10 +407,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -381,7 +421,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -398,10 +439,12 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		},
@@ -410,7 +453,8 @@
 			"id": 562,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
+			"associated_sites": [
+				{
 					"id": 1,
 					"name": "High Clinic"
 				},
@@ -427,22 +471,66 @@
 			"id": 245,
 			"start_date": "09-01-2022",
 			"end_date": "09-01-2022",
-			"associated_sites": [{
-				"id": 2,
-				"name": "Michigan Institute"
-			}],
+			"associated_sites": [
+				{
+					"id": 2,
+					"name": "Michigan Institute"
+				}
+			],
 			"patient_count": 432,
 			"is_active": true
 		}
 	],
-	  "user": {
-	    "id": 1,
-	    "name": "Coco Jambo",
-	    "type": "ADMIN",
-	    "email": "coco@jam.bo",
-	    "phone": "888-888-8888",
-	    "is_active": true,
-	    "created_at": "2021-06-28T10:30:15.310Z",
-	    "updated_at": "2021-06-29T12:55:28.310Z"
-  }
+	"user": [
+		{
+			"id": 1,
+			"name": "Coco Jambo",
+			"type": "ADMINISTRATOR",
+			"email": "coco@jam.bo",
+			"phone": "888-888-8888",
+			"is_active": true,
+			"created_at": "2021-06-28T10:30:15.310Z",
+			"updated_at": "2021-06-29T12:55:28.310Z"
+		},
+		{
+			"id": 2,
+			"name": "Valeri Erekle",
+			"type": "CRO",
+			"email": "valeri@erek.le",
+			"phone": "888-888-8888",
+			"is_active": true,
+			"created_at": "2021-06-28T10:30:15.310Z",
+			"updated_at": "2021-06-29T12:55:28.310Z"
+		},
+		{
+			"id": 3,
+			"name": "Marta Irine",
+			"type": "MEDICAL_MONITOR",
+			"email": "marta@iri.ne",
+			"phone": "888-888-8888",
+			"is_active": true,
+			"created_at": "2021-06-28T10:30:15.310Z",
+			"updated_at": "2021-06-29T12:55:28.310Z"
+		},
+		{
+			"id": 4,
+			"name": "Chibueze Ayomide",
+			"type": "SPONSOR_EMPLOYEE",
+			"email": "chibueze@ayomi.de",
+			"phone": "888-888-8888",
+			"is_active": true,
+			"created_at": "2021-06-28T10:30:15.310Z",
+			"updated_at": "2021-06-29T12:55:28.310Z"
+		},
+		{
+			"id": 5,
+			"name": "Nnamdi Lekan",
+			"type": "CLINICIAN",
+			"email": "nnamdi@lek.an",
+			"phone": "888-888-8888",
+			"is_active": true,
+			"created_at": "2021-06-28T10:30:15.310Z",
+			"updated_at": "2021-06-29T12:55:28.310Z"
+		}
+	]
 }
